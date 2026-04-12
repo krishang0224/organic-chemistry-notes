@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "foldIndent": true,
+  "showUnsupportedFiles": false,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "useTab": false,
+  "tabSize": 2,
+  "newLinkFormat": "shortest",
+  "trashOption": "system"
+}
