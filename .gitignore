@@ -1,7 +1,5 @@
 .obsidian/
 Flashcards/
 Templates/
-*.md
-!Notes/**/*.md
 *.base
 *.canvas
